@@ -1,3 +1,8 @@
+
+![images](https://github.com/user-attachments/assets/be8a834d-4753-4b3f-b19e-c07fdf611318)
+
+
+
 ## Overview
 The XOR Encryptor application provides a method for encrypting and decrypting files using a combination of a key file and two separate passwords. This approach ensures a unique and secure encryption process, making it suitable for protecting sensitive data. However, users should be aware that this implementation, based on XOR encryption, does not inherently offer the same level of security as more advanced encryption standards like AES.
 
@@ -21,4 +26,3 @@ In the encryption process, after deriving the salt and nonce, the application re
 Security Considerations
 While the XOR Encryptor's use of a key file and two passwords enhances security over basic XOR encryption, it is important to note that it does not provide the same level of security as more sophisticated encryption methods like AES. Users should employ strong, unique passwords for both the salt and nonce to ensure robust security. Additionally, the key file must be securely managed and protected, as it is crucial to the encryption and decryption processes.
 
-For sensitive data, such as medical records, further security measures and compliance with legal and regulatory standards are recommended. This application is suitable for scenarios where simplicity is sufficient, but users handling highly sensitive information should consult with security experts to implement additional safeguards and ensure comprehensive protection.
