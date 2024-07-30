@@ -1,3 +1,3 @@
 ## Starter Pack 2
 
-1- Key maker. Quite advanced, generates a detailed report which calculates lots of variables, including the randomness of the key. 
+1- A nice Cryptographically Secure key maker. Generates a detailed report to prove it, too! 
