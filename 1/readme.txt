@@ -1,4 +1,5 @@
-Overview
+
+
 This application is designed to generate  cryptographically secure keys through a secure and detailed process, ensuring high levels of randomness and security. The keys are created in multiple runs, with each run contributing a 256-byte segment to the final key. Users can opt to generate a report (info.txt) that provides a comprehensive analysis of the key generation process, including insights into the distribution and randomness of the generated key data.
 
 How to Use the Application
