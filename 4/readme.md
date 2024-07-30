@@ -1,3 +1,12 @@
+
+
+
+
+![a](https://github.com/user-attachments/assets/e4aa603b-6288-44a8-b58c-3960031a4b5b)
+
+
+
+
 The main.rs file uses the #![windows_subsystem = "windows"] attribute to ensure the application runs without a console window. Without it, the app would open 2 windows, the app one and the black console window.
 
 Prerequisites : Rust toolchain (preferably the latest stable version). You can install Rust through rustup. Cargo (comes with rustup installation). Installation Clone the repository or download the source code to your local machine. Navigate to the directory containing the source code. Build the application by running:
